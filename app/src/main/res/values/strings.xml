@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Bai7</string>
+    <string name="tieu_de">Giai Phuong Trinh Bac 2</string>
+    <string name="he_so_a">He So a</string>
+    <string name="he_so_b">He So b</string>
+    <string name="he_so_c">He So c</string>
+    <string name="ket_qua">Ket Qua</string>
+    <string name="giai">Giai</string>
+    <string name="xoa">Xoa</string>
+</resources>
